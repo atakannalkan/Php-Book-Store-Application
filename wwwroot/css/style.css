@@ -1,0 +1,30 @@
+a {
+    text-decoration: none;
+}
+nav .navbar-brand {
+    font-weight: 600;
+}
+
+
+form .searchInput {
+    height: 48px;
+    box-shadow: 1px 1px 2px rgb(0 0 0 / 30%);
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+form .searchButton {
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.form-check label, .form-check input {
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.modal .modal-body {
+    font-size: 17px;
+}
+
+section .card .card-body .text-center p {
+    font-size: 19px;
+}
