@@ -26,4 +26,4 @@ Veri tabanı Relationships(İlişkiler) konusunda ise, Book(kitap) ve Category(k
 
 ## Uygulamanın Kullanımı
 
-Uygulamayı çalıştırmak için öncelikle uygulama ile MySQL veritabanı arasındaki bağlantının kurulması gereklidir. Bağlantı gerçekleştikten sonra ise admin paneline erişmek ve siteyi yönetmek için varsayılan kullanıcı bilgileri; **Kullanıcı Adı: "admin" - Şifre: "atakan1"** bilgileri ile admin olarak giriş yapabilirsiniz. Sonrasında ise bu bilgileri admin paneli kısmından ya da veritabanının kendisinden güncelleyebilirsiniz.
+Uygulamayı çalıştırmak için öncelikle uygulama ile **MySQL** veritabanı arasındaki bağlantının kurulması gereklidir. Bağlantı gerçekleştikten sonra ise admin paneline erişmek ve siteyi yönetmek için varsayılan kullanıcı bilgileri; **Kullanıcı Adı: "admin" - Şifre: "atakan1"** bilgileri ile admin olarak giriş yapabilirsiniz. Sonrasında ise bu bilgileri admin paneli kısmından ya da veritabanının kendisinden güncelleyebilirsiniz.
